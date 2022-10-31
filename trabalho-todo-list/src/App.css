@@ -1,0 +1,12 @@
+body{
+  background: linear-gradient(
+    90deg,
+    rgb(0, 0, 0) 0%,
+    rgb(196, 196, 201) 100%
+  );
+}
+h1{
+  margin: 0%;
+  text-align: center;
+  color:aqua;
+}
